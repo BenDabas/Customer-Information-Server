@@ -1,0 +1,8 @@
+{
+	"PORT": 3001,
+	"DB_PORT": 5432,
+	"DB_DATABASE": "customer-service",
+	"DB_HOST": "localhost",
+	"DB_PASSWORD": "cviscx123123",
+	"DB_USER": "postgres"
+}
